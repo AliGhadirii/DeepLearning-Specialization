@@ -25,9 +25,9 @@ This repository contains projects that i've done to chanallange my DeepLearning 
   
   The image bellow Clarifies the dataset better( left: input string representing Date | right: expected output)
  
-  ![](DateTimeTranslatoe/images/input.PNG)
+  ![](DateTimeTranslator/images/input.PNG)
   
   This image shows the model architecture:
   
-  ![](DateTimeTranslatoe/images/architecture.PNG)
+  ![](DateTimeTranslator/images/architecture.PNG)
   

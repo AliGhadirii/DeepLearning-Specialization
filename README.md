@@ -5,8 +5,12 @@ This repository contains projects that i've done to chanallange my DeepLearning 
 
 - Description:
 
-  In this project i've implemented a classifier which tries to suggest an emojie related to the sentence overal meaning. the image bellow explains the model better:
+  In this project i've implemented a classifier which tries to suggest an emojie related to the sentence overal meaning.
   
+  I've used Glove for Sentence to vector operation.
+  
+  The image bellow explains the model better:
+ 
   ![](Emojify/images/dataset_emojifier.png)
   
   This image shows the model architecture:

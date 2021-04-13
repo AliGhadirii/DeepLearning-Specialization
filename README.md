@@ -1,5 +1,5 @@
-# AI_Projects
-This repository contains projects that i've done to chanallange my DeepLearning skills.
+# DeepLearning-Specialization
+This repository contains projects that i've done in Deeplearning Specialization courses to chanallange my DeepLearning skills.
 
 # Emojifier
 

@@ -25,9 +25,9 @@ This repository contains projects that I've done in Deep learning Specialization
   
   The image bellow Clarifies the dataset better( left: input string representing Date | right: expected output)
  
-  ![](DateTimeTranslator/images/input.PNG)
+  ![](DateTranslator/images/input.PNG)
   
   This image shows the model architecture:
   
-  ![](DateTimeTranslator/images/architecture.PNG)
+  ![](DateTranslator/images/architecture.PNG)
   

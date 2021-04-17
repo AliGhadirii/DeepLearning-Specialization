@@ -1,5 +1,5 @@
 # DeepLearning-Specialization
-This repository contains projects that i've done in Deeplearning Specialization courses to chanallange my DeepLearning skills.
+This repository contains projects that I've done in Deep learning Specialization courses to challenge my DeepLearning skills.
 
 # Emojifier
 
@@ -17,7 +17,7 @@ This repository contains projects that i've done in Deeplearning Specialization 
   
   ![](Emojify/images/emojifier.png)
   
-  # DateTime Translator
+  # Date Translator
 
 - Description:
 
